@@ -1,0 +1,44 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.4f3c8448.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/flatpickr/dist/esm/index.js",
+      "_choices.a92705a3.js",
+      "node_modules/autosize/dist/autosize.esm.js",
+      "_nprogress.b7c4165c.js"
+    ],
+    "css": [
+      "assets/app.a361e478.css"
+    ]
+  },
+  "node_modules/flatpickr/dist/esm/index.js": {
+    "file": "assets/index.ee3a27ee.js",
+    "src": "node_modules/flatpickr/dist/esm/index.js",
+    "isDynamicEntry": true
+  },
+  "_choices.a92705a3.js": {
+    "file": "assets/choices.a92705a3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "node_modules/autosize/dist/autosize.esm.js": {
+    "file": "assets/autosize.esm.daa08a8c.js",
+    "src": "node_modules/autosize/dist/autosize.esm.js",
+    "isDynamicEntry": true
+  },
+  "_nprogress.b7c4165c.js": {
+    "file": "assets/nprogress.b7c4165c.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.a361e478.css",
+    "src": "resources/js/app.css"
+  }
+}
