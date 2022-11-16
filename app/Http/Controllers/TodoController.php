@@ -8,7 +8,7 @@ use ProtoneMedia\Splade\Facades\Toast;
 
 class TodoController extends Controller
 {
-    protected $api = 'https://63734dd30bb6b698b607eda2.mockapi.io/api/v1/todos';
+    protected string $api = 'https://63734dd30bb6b698b607eda2.mockapi.io/api/v1/todos';
 
     public function index()
     {

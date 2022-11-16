@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class BoardgamesController extends Controller
 {
-    protected $api = 'https://api.geekdo.com/xmlapi';
+    protected string $api = 'https://api.geekdo.com/xmlapi';
 
     /*
      * Endpoint: /search?search={boardgame}

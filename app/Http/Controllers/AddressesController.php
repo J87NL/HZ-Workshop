@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class AddressesController extends Controller
 {
-    protected $api = 'https://geodata.nationaalgeoregister.nl/locatieserver/v3';
+    protected string $api = 'https://geodata.nationaalgeoregister.nl/locatieserver/v3';
 
     /*
      * Endpoint: /free?q=postcode:{zipcode} AND huisnummer:{housenumber}
