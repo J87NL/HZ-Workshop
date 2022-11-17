@@ -10,7 +10,7 @@
       "_nprogress.b7c4165c.js"
     ],
     "css": [
-      "assets/app.a361e478.css"
+      "assets/app.8ca82175.css"
     ]
   },
   "node_modules/flatpickr/dist/esm/index.js": {
@@ -38,7 +38,7 @@
     ]
   },
   "resources/js/app.css": {
-    "file": "assets/app.a361e478.css",
+    "file": "assets/app.8ca82175.css",
     "src": "resources/js/app.css"
   }
 }

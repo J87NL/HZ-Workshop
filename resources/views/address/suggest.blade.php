@@ -21,11 +21,9 @@
                     <li v-for="address in response.response.docs">
                         @{{ address.weergavenaam }}
 
-                        {{--
                         <Link modal :href="'/address/' + address.id">
                             <x-gmdi-open-in-new-r class="h-5 w-5 inline" />
                         </Link>
-                        --}}
                     </li>
                 </ul>
 
